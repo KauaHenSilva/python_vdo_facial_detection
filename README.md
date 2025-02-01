@@ -6,7 +6,7 @@ Este repositório contém dois Jupyter Notebooks que demonstram a detecção de 
 
 ## Notebooks
 
-### `face_detection_ssd.ipynb` [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)(https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/KauaHenSilva/python_vdo_facial_detection/blob/main/SSD.ipynb)
+### `face_detection_ssd.ipynb` [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/KauaHenSilva/python_vdo_facial_detection/blob/main/SSD.ipynb)
 
 **Funcionalidade:** Detecção de faces utilizando um modelo SSD pré-treinado.
 
